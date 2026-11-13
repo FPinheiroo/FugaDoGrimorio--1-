@@ -1,0 +1,613 @@
+fileFormatVersion: 2
+guid: 4caa7ab0a6f6923428557e3fd6c66548
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6742919674058158909
+    second: "Cora\xE7\xF5es Pixelados de Vida e Vazio_0"
+  - first:
+      213: 1964994992809174532
+    second: "Cora\xE7\xF5es Pixelados de Vida e Vazio_1"
+  - first:
+      213: 128166254390430334
+    second: "Cora\xE7\xF5es Pixelados de Vida e Vazio_2"
+  - first:
+      213: -7474000460640264363
+    second: "Cora\xE7\xF5es Pixelados de Vida e Vazio_3"
+  - first:
+      213: -3198746473906410805
+    second: "Cora\xE7\xF5es Pixelados de Vida e Vazio_4"
+  - first:
+      213: 7761195168119378285
+    second: "Cora\xE7\xF5es Pixelados de Vida e Vazio_5"
+  - first:
+      213: 4301748610824719314
+    second: "Cora\xE7\xF5es Pixelados de Vida e Vazio_6"
+  - first:
+      213: 8121044134018135138
+    second: "Cora\xE7\xF5es Pixelados de Vida e Vazio_7"
+  - first:
+      213: -3539360998382330895
+    second: "Cora\xE7\xF5es Pixelados de Vida e Vazio_8"
+  - first:
+      213: 2076445853767195554
+    second: "Cora\xE7\xF5es Pixelados de Vida e Vazio_9"
+  - first:
+      213: -7618299039158178691
+    second: "Cora\xE7\xF5es Pixelados de Vida e Vazio_10"
+  - first:
+      213: -2292604766410106481
+    second: "Cora\xE7\xF5es Pixelados de Vida e Vazio_11"
+  - first:
+      213: 3853176674001078910
+    second: "Cora\xE7\xF5es Pixelados de Vida e Vazio_12"
+  - first:
+      213: -7591059483697441333
+    second: "Cora\xE7\xF5es Pixelados de Vida e Vazio_13"
+  - first:
+      213: 2584254500084155937
+    second: "Cora\xE7\xF5es Pixelados de Vida e Vazio_14"
+  - first:
+      213: -8884188765210069373
+    second: "Cora\xE7\xF5es Pixelados de Vida e Vazio_15"
+  - first:
+      213: -5765907099814767118
+    second: "Cora\xE7\xF5es Pixelados de Vida e Vazio_16"
+  - first:
+      213: 8314739470347161752
+    second: "Cora\xE7\xF5es Pixelados de Vida e Vazio_17"
+  - first:
+      213: -90056277746432705
+    second: "Cora\xE7\xF5es Pixelados de Vida e Vazio_18"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Cora\xE7\xF5es Pixelados de Vida e Vazio_0"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 65
+        width: 870
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc45ce28465c62a0800000000000000
+      internalID: -6742919674058158909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cora\xE7\xF5es Pixelados de Vida e Vazio_1"
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 0
+        width: 938
+        height: 705
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406efc3f880154b10800000000000000
+      internalID: 1964994992809174532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cora\xE7\xF5es Pixelados de Vida e Vazio_2"
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 693
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a4221878657c100800000000000000
+      internalID: 128166254390430334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cora\xE7\xF5es Pixelados de Vida e Vazio_3"
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 684
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f5e641e24074890800000000000000
+      internalID: -7474000460640264363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cora\xE7\xF5es Pixelados de Vida e Vazio_4"
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 677
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca66489705cb93d0800000000000000
+      internalID: -3198746473906410805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cora\xE7\xF5es Pixelados de Vida e Vazio_5"
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 667
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61db3482ed45bb60800000000000000
+      internalID: 7761195168119378285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cora\xE7\xF5es Pixelados de Vida e Vazio_6"
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 403
+        width: 59
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbcc35e191e2bb30800000000000000
+      internalID: 4301748610824719314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cora\xE7\xF5es Pixelados de Vida e Vazio_7"
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 385
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264bb6ddc9eb3b070800000000000000
+      internalID: 8121044134018135138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cora\xE7\xF5es Pixelados de Vida e Vazio_8"
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 407
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb9c8f9ce9a1eec0800000000000000
+      internalID: -3539360998382330895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cora\xE7\xF5es Pixelados de Vida e Vazio_9"
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 403
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab5025a08401dc10800000000000000
+      internalID: 2076445853767195554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cora\xE7\xF5es Pixelados de Vida e Vazio_10"
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 390
+        width: 7
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ce64a236d564690800000000000000
+      internalID: -7618299039158178691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cora\xE7\xF5es Pixelados de Vida e Vazio_11"
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 329
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8912c79c180f20e0800000000000000
+      internalID: -2292604766410106481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cora\xE7\xF5es Pixelados de Vida e Vazio_12"
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 293
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ac7ae15cb397530800000000000000
+      internalID: 3853176674001078910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cora\xE7\xF5es Pixelados de Vida e Vazio_13"
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 273
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc59a556e9327a690800000000000000
+      internalID: -7591059483697441333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cora\xE7\xF5es Pixelados de Vida e Vazio_14"
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 281
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12688be96cd1dd320800000000000000
+      internalID: 2584254500084155937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cora\xE7\xF5es Pixelados de Vida e Vazio_15"
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 274
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3863324736505b480800000000000000
+      internalID: -8884188765210069373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cora\xE7\xF5es Pixelados de Vida e Vazio_16"
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 69
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f553a3ba026bffa0800000000000000
+      internalID: -5765907099814767118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cora\xE7\xF5es Pixelados de Vida e Vazio_17"
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 71
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89056f1be73e36370800000000000000
+      internalID: 8314739470347161752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cora\xE7\xF5es Pixelados de Vida e Vazio_18"
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 0
+        width: 120
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f354123ea4e00cef0800000000000000
+      internalID: -90056277746432705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Cora\xE7\xF5es Pixelados de Vida e Vazio_0": -6742919674058158909
+      "Cora\xE7\xF5es Pixelados de Vida e Vazio_1": 1964994992809174532
+      "Cora\xE7\xF5es Pixelados de Vida e Vazio_10": -7618299039158178691
+      "Cora\xE7\xF5es Pixelados de Vida e Vazio_11": -2292604766410106481
+      "Cora\xE7\xF5es Pixelados de Vida e Vazio_12": 3853176674001078910
+      "Cora\xE7\xF5es Pixelados de Vida e Vazio_13": -7591059483697441333
+      "Cora\xE7\xF5es Pixelados de Vida e Vazio_14": 2584254500084155937
+      "Cora\xE7\xF5es Pixelados de Vida e Vazio_15": -8884188765210069373
+      "Cora\xE7\xF5es Pixelados de Vida e Vazio_16": -5765907099814767118
+      "Cora\xE7\xF5es Pixelados de Vida e Vazio_17": 8314739470347161752
+      "Cora\xE7\xF5es Pixelados de Vida e Vazio_18": -90056277746432705
+      "Cora\xE7\xF5es Pixelados de Vida e Vazio_2": 128166254390430334
+      "Cora\xE7\xF5es Pixelados de Vida e Vazio_3": -7474000460640264363
+      "Cora\xE7\xF5es Pixelados de Vida e Vazio_4": -3198746473906410805
+      "Cora\xE7\xF5es Pixelados de Vida e Vazio_5": 7761195168119378285
+      "Cora\xE7\xF5es Pixelados de Vida e Vazio_6": 4301748610824719314
+      "Cora\xE7\xF5es Pixelados de Vida e Vazio_7": 8121044134018135138
+      "Cora\xE7\xF5es Pixelados de Vida e Vazio_8": -3539360998382330895
+      "Cora\xE7\xF5es Pixelados de Vida e Vazio_9": 2076445853767195554
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
